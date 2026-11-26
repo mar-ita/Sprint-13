@@ -1,0 +1,74 @@
+﻿codi_barri,nom_barri,codi_districte,nom_districte,area_km2
+1,el Raval,1,Ciutat Vella,1.1002861357142153
+2,el Barri Gòtic,1,Ciutat Vella,0.8155939379153038
+3,la Barceloneta,1,Ciutat Vella,1.1793819507510452
+4,"Sant Pere, Santa Caterina i la Ribera",1,Ciutat Vella,1.1096687797898266
+5,el Fort Pienc,2,Eixample,0.9293557807300483
+6,la Sagrada Família,2,Eixample,1.0418293468960584
+7,la Dreta de l'Eixample,2,Eixample,2.1198742143239664
+8,l'Antiga Esquerra de l'Eixample,2,Eixample,1.2284358355561449
+9,la Nova Esquerra de l'Eixample,2,Eixample,1.340701159048985
+10,Sant Antoni,2,Eixample,0.8041068774437209
+11,el Poble-sec,3,Sants-Montjuïc,4.585321407165825
+12,la Marina del Prat Vermell,3,Sants-Montjuïc,14.237476074941043
+13,la Marina de Port,3,Sants-Montjuïc,1.2686099265536526
+14,la Font de la Guatlla,3,Sants-Montjuïc,0.29706948731493804
+15,Hostafrancs,3,Sants-Montjuïc,0.40992745537699277
+16,la Bordeta,3,Sants-Montjuïc,0.5722128051673143
+17,Sants - Badal,3,Sants-Montjuïc,0.41458953577549756
+18,Sants,3,Sants-Montjuïc,1.0946433592267
+19,les Corts,4,Les Corts,1.4104095553659732
+20,la Maternitat i Sant Ramon,4,Les Corts,1.9153709466521631
+21,Pedralbes,4,Les Corts,2.6849886098526894
+22,"Vallvidrera, el Tibidabo i les Planes",5,Sarrià-Sant Gervasi,11.324510760655427
+23,Sarrià,5,Sarrià-Sant Gervasi,3.0474444540456855
+24,les Tres Torres,5,Sarrià-Sant Gervasi,0.7879593751519037
+25,Sant Gervasi - la Bonanova,5,Sarrià-Sant Gervasi,2.2336414964533424
+26,Sant Gervasi - Galvany,5,Sarrià-Sant Gervasi,1.6692197234538293
+27,el Putxet i el Farró,5,Sarrià-Sant Gervasi,0.8478595092172175
+28,Vallcarca i els Penitents,6,Gràcia,1.2509494964575743
+29,el Coll,6,Gràcia,0.35322468900953197
+30,la Salut,6,Gràcia,0.6483890343090013
+31,la Vila de Gràcia,6,Gràcia,1.3211881142779887
+32,el Camp d'en Grassot i Gràcia Nova,6,Gràcia,0.6505265067833587
+33,el Baix Guinardó,7,Horta-Guinardó,0.5624656929556962
+34,Can Baró,7,Horta-Guinardó,0.38418368057033725
+35,el Guinardó,7,Horta-Guinardó,1.3087334138959588
+36,la Font d'en Fargues,7,Horta-Guinardó,0.6572226056754376
+37,el Carmel,7,Horta-Guinardó,0.9399904841699298
+38,la Teixonera,7,Horta-Guinardó,0.3375447119038511
+39,Sant Genís dels Agudells,7,Horta-Guinardó,1.6845746904146324
+40,Montbau,7,Horta-Guinardó,2.0539888421297956
+41,la Vall d'Hebron,7,Horta-Guinardó,0.7445309287202073
+42,la Clota,7,Horta-Guinardó,0.1784910271640173
+43,Horta,7,Horta-Guinardó,3.070016808912061
+44,Vilapicina i la Torre Llobeta,8,Nou Barris,0.564280056380071
+45,Porta,8,Nou Barris,0.8368244376544769
+46,el Turó de la Peira,8,Nou Barris,0.354212692474246
+47,Can Peguera,8,Nou Barris,0.11868490296077444
+48,la Guineueta,8,Nou Barris,0.6119575868532958
+49,Canyelles,8,Nou Barris,0.7901013876032623
+50,les Roquetes,8,Nou Barris,0.6430176261542404
+51,Verdun,8,Nou Barris,0.23711821634641658
+52,la Prosperitat,8,Nou Barris,0.5912189100762245
+53,la Trinitat Nova,8,Nou Barris,0.5767071476173192
+54,Torre Baró,8,Nou Barris,1.7418247603869694
+55,Ciutat Meridiana,8,Nou Barris,0.37668324485628824
+56,Vallbona,8,Nou Barris,0.6138368263263928
+57,la Trinitat Vella,9,Sant Andreu,0.8076118883645598
+58,Baró de Viver,9,Sant Andreu,0.22989274913159974
+59,el Bon Pastor,9,Sant Andreu,1.8682056941206324
+60,Sant Andreu,9,Sant Andreu,1.8674191878072512
+61,la Sagrera,9,Sant Andreu,0.9863113122478265
+62,el Congrés i els Indians,9,Sant Andreu,0.4092140379027156
+63,Navas,9,Sant Andreu,0.423825076168899
+64,el Camp de l'Arpa del Clot,10,Sant Martí,0.7406331456685862
+65,el Clot,10,Sant Martí,0.6967920610574105
+66,el Parc i la Llacuna del Poblenou,10,Sant Martí,1.122041386553689
+67,la Vila Olímpica del Poblenou,10,Sant Martí,0.924839964516606
+68,el Poblenou,10,Sant Martí,1.5670305249085341
+69,Diagonal Mar i el Front Marítim del Poblenou,10,Sant Martí,1.226952570635149
+70,el Besòs i el Maresme,10,Sant Martí,1.2087014754033223
+71,Provençals del Poblenou,10,Sant Martí,1.085739628567706
+72,Sant Martí de Provençals,10,Sant Martí,0.7339890163308026
+73,la Verneda i la Pau,10,Sant Martí,1.1299783949961755
